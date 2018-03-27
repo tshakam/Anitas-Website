@@ -11,36 +11,44 @@
 #logoBig{
 	margin-top: 7%;
 }
-.breakfast {
+
+#breakfast {
   font-style: italic;
   font-weight: lighter;
   text-align: center;
   padding: 80px;
   color: white;
   background-image: url(../img/foodtop/breakfast.jpg);
-  width: 410px;
-  height: 210px;
+	display: inline-block;
 }
-.lunch {
+#lunch {
   font-style: italic;
   font-weight: lighter;
   text-align: center;
   padding: 80px;
   color: white;
   background-image: url(../img/foodtop/lunch.jpg);
-  width: 410px;
-  height: 210px;
-
-
+	display: inline-block;
 }
-.dinner {
+#dinner {
   font-style: italic;
   font-weight: lighter;
   text-align: center;
   padding: 80px;
   color: white;
   background-image: url(../img/foodtop/dinner.jpg);
-  width: 410px;
-  height: 210px;
-
+  display: inline-block;
+}
+.happyhour {
+	text-align: center;
+  height: 105px;
+  background-color: #d4d6d8;
+  padding: 20px;
+}
+.partyhour{
+text-align: center;
+padding: 20px;
+color: white;
+height: 105px;
+background-color: #F15A29;
 }

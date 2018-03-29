@@ -216,13 +216,11 @@ a:hover {
 }
 
 .previous {
-    background-color: #f1f1f1;
-    color: black;
+    color: orange;
 }
 
 .next {
-    background-color: #4CAF50;
-    color: white;
+    color: orange;
 }
 
 .round {

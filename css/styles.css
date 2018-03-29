@@ -267,3 +267,14 @@ font-weight: 100;
 color: #ffffff;
 border-radius: 5px;
 }
+.formButton {
+margin: 20px;
+background-color:#F15A29;
+display:inline-block;
+color:#ffffff;
+font-size:28px;
+font-weight: 500;
+padding:6px 50px;
+text-decoration:none;
+border-radius: 5px;
+}

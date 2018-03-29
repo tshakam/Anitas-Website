@@ -182,3 +182,49 @@ div.desc {
     padding: 15px;
     text-align: center;
 }
+.vertical:hover .overlay-mini {
+position: absolute;
+bottom: 0;
+right: 0;
+background:rgba(250,250,250,0.5);
+overflow: hidden;
+width: 100%;
+height: 100%;
+transition: .5s ease;
+}
+.vertical:hover .text {
+color: #000000;
+}
+
+.customers {
+	margin: 100px;
+	box-shadow: 0px 2px 9px 1px;
+	padding:12px;
+	column-count: 2;
+	text-align: center;
+	column-rule:  1px outset #ccc;
+}
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+a:hover {
+    background-color: #ddd;
+    color: orange;
+}
+
+.previous {
+    background-color: #f1f1f1;
+    color: black;
+}
+
+.next {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.round {
+    border-radius: 50%;
+}

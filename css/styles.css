@@ -36,6 +36,7 @@
 	width: 410px;
   height: 210px
 }
+
 #dinner {
   font-style: italic;
   font-weight: lighter;
@@ -44,8 +45,37 @@
   color: white;
   background-image: url(../img/foodtop/dinner.jpg);
   font-size: 40px;
-	width: 410px;
+	width: 325px;
   height: 210px
+}
+.Dinner:hover{
+    background-color: white;
+    opacity: 0.4;
+    transition: .5s;
+
+}
+.Diner:hover p{
+    color: black;
+	}
+
+.Lunch:hover{
+    background-color: white;
+    opacity: 0.4;
+    transition: .5s;
+
+}
+.Lunch:hover p{
+    color: black;
+	}
+
+.breakfast:hover{
+    background-color: white;
+    opacity: 0.4;
+    transition: .5s;
+
+}
+.breakfast:hover p{
+    color: black;
 }
 .happyhour{
 	text-align: center;

@@ -54,24 +54,26 @@ color: white;
 background-color: #F15A29;
 font-size: 40px;
 }
-.container {
-  padding: 0px;
-  margin: 0%;
-	width:99.9%;
-}
+
 .container2 {
 	margin-top: 3%;
 	margin-left: 1.5%;
 }
-.fastfoods{
-	box-shadow: 5px 10px;
-}
+
 #foodtab{
 	background-image: url(../img/foodsBg.jpg);
 	image-resolution: from-image;
 	background-repeat: no-repeat;
 }
-.fasts{
+#text1{
+padding: 5%;
+text-align: left;
+}
+#text2{
+padding: 5%;
+text-align: right;
+}
+.fastdrinks{
 margin-bottom: 10%;
 margin-left: 10%;
 margin-right: 30%;
@@ -82,4 +84,10 @@ border-style: solid;
 border-width: 5px;
 border-radius: 5px;
 box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.drink1{
+padding: 0;
+}
+.drinksimg{
+padding: 0;
 }

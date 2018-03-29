@@ -226,3 +226,17 @@ a:hover {
 .round {
     border-radius: 50%;
 }
+.media3{
+padding: 0;
+height: 300px;
+width:100%;
+background-image: url(../images/subscribe.jpg);
+ background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+}
+.textt {
+text-align: center;
+margin-top: 2%;
+color: #ffffff;
+}

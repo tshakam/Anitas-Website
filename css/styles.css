@@ -230,7 +230,7 @@ a:hover {
 padding: 0;
 height: 300px;
 width:100%;
-background-image: url(../images/subscribe.jpg);
+background-image: url(../img/backgrounds/subscribe.jpg);
  background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
@@ -240,7 +240,7 @@ text-align: center;
 margin-top: 2%;
 color: #ffffff;
 }
-.mail{
+.mailing{
 text-align: center;
 height: 200px;
 width: 80%;
@@ -277,4 +277,15 @@ font-weight: 500;
 padding:6px 50px;
 text-decoration:none;
 border-radius: 5px;
+}
+.social{
+text-align: center;
+margin-top: 3%;
+color: #ffffff;
+}
+.footer{
+padding: 0;
+height: 300px;
+width:100%;
+background-color:#F15A29;
 }

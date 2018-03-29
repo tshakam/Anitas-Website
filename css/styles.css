@@ -85,11 +85,29 @@ border-width: 5px;
 border-radius: 5px;
 box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
+.fastdrink{
+	margin-bottom: 10%;
+	margin-left: 10%;
+	margin-right: 30%;
+	margin-top: 10%;
+	padding:0;
+	border-color: transparent;
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 5px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)
+}
 .drink1{
 padding: 0;
 }
 .drinksimg{
 padding: 0;
+margin: 2%;
+}
+#background3{
+	background-image: url(../img/backgrounds/foodsBg.jpg);
+	image-resolution: from-image;
+	background-repeat: no-repeat;
 }
 .tabs {
 width:100%;
